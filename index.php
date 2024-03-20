@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Album Boolify</title>
+    <title>Albums Boolify</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -92,7 +92,7 @@
                 <!-- Prima riga -->
                 <div class="album-row">
                     <!-- Riga degli album -->
-                    <!-- Utilizziamo un ciclo v-for per generare le card degli album per i primi tre album -->
+                    <!-- Utilizziamo un ciclo v-for per generare le card degli album per i PRIMI TRE album -->
                     <div class="album-column text-center p-5 d-flex justify-content-center" v-for="(album, index) in albumList.slice(0, 3)" :key="album.title">
                         <!-- Colonna degli album -->
                         <div class="card box-shadow">
@@ -113,7 +113,7 @@
                 <!-- Seconda riga -->
                 <div class="album-row">
                     <!-- Riga degli album -->
-                    <!-- Utilizziamo un ciclo v-for per generare le card degli album per gli ultimi tre album -->
+                    <!-- Utilizziamo un ciclo v-for per generare le card degli album per gli ultimi tre album( dal 4rto all'ultimo) -->
                     <div class="album-column text-center p-5 d-flex justify-content-center" v-for="(album, index) in albumList.slice(3)" :key="album.title">
                         <!-- Colonna degli album -->
                         <div class="card box-shadow">
