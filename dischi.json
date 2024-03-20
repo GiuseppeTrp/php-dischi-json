@@ -21,11 +21,11 @@
         "genre": "Roots Reggae"
     },
     {
-        "title": "Storia di un minuto",
-        "author": "PFM",
-        "year": 1972,
-        "poster": "https://m.media-amazon.com/images/I/512Fjrcr+GL._UF1000,1000_QL80_.jpg",
-        "genre": "Rock"
+        "title": "Supertramp",
+        "author": "Supertramp",
+        "year": 1970,
+        "poster": "https://m.media-amazon.com/images/I/81xsuaQxJpL._UF1000,1000_QL80_.jpg",
+        "genre": "Progressive Rock"
     },
     {
         "title": "ReLoad",
@@ -38,7 +38,7 @@
         "title": "Medina",
         "author": "Pino Daniele",
         "year": 2001,
-        "poster": "https://m.media-amazon.com/images/I/41H3gkd6VmL._UF1000,1000_QL80_.jpg",
+        "poster": "https://www.pinodaniele.com/wp/wp-content/uploads/2018/11/2001-Medina1x1-e1545917931221.jpg",
         "genre": "Pop"
     }
 ]
