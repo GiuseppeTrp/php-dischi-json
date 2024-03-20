@@ -1,44 +1,44 @@
 [
     {
-        "title": "New Jersey",
-        "author": "Bon Jovi",
-        "year": 1988,
-        "poster": "https://images-na.ssl-images-amazon.com/images/I/51sBr4IWDwL.jpg",
+        "title": "Fear Inoculum",
+        "author": "Tool",
+        "year": 2019,
+        "poster": "https://images-eu.ssl-images-amazon.com/images/I/71c837KdfhL._AC_UL600_SR600,600_.jpg",
+        "genre": "Progressive rock, Alternative metal"
+    },
+    {
+        "title": "Rising",
+        "author": "Rainbow",
+        "year": 1976,
+        "poster": "https://m.media-amazon.com/images/I/71D-MeVXnML._UF350,350_QL50_.jpg",
+        "genre": "Heavy Metal/Hard Rock/Neoclassic Metal"
+    },
+    {
+        "title": "Catch A Fire",
+        "author": "Bob Marley and The Wailers",
+        "year": 1973,
+        "poster": "https://m.media-amazon.com/images/I/51puWA8KGBL._UF1000,1000_QL80_.jpg",
+        "genre": "Roots Reggae/Rock Reggae"
+    },
+    {
+        "title": "Storia di un minuto",
+        "author": "PFM",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/I/512Fjrcr+GL._UF1000,1000_QL80_.jpg",
         "genre": "Rock"
     },
     {
-        "title": "Live at Wembley 86",
-        "author": "Queen",
-        "year": 1992,
-        "poster": "https://images-na.ssl-images-amazon.com/images/I/71g40mlbinL._SX355_.jpg",
+        "title": "ReLoad",
+        "author": "Metallica",
+        "year": 1997,
+        "poster": "https://m.media-amazon.com/images/I/6164kxo8QzL._UF1000,1000_QL80_.jpg",
+        "genre": "Heavy metal"
+    },
+    {
+        "title": "Medina",
+        "author": "Pino Daniele",
+        "year": 2001,
+        "poster": "https://m.media-amazon.com/images/I/41H3gkd6VmL._UF1000,1000_QL80_.jpg",
         "genre": "Pop"
-    },
-    {
-        "title": "Ten\"s Summoner\"s Tales",
-        "author": "Sting",
-        "year": 1993,
-        "poster": "https://images-na.ssl-images-amazon.com/images/I/411BQR6BHRL.jpg",
-        "genre": "Pop"
-    },
-    {
-        "title": "Steve Gadd band",
-        "author": "Steve Gadd Band",
-        "year": 2018,
-        "poster": "https://m.media-amazon.com/images/I/81UtLzBDoEL._SS500_.jpg",
-        "genre": "Jazz"
-    },
-    {
-        "title": "Brave new World",
-        "author": "Iron Maiden",
-        "year": 2000,
-        "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/Iron_Maiden_-_Brave_New_World.jpg",
-        "genre": "Metal"
-    },
-    {
-        "title": "One more car, one more rider",
-        "author": "Eric Clapton",
-        "year": 2002,
-        "poster": "https://images-na.ssl-images-amazon.com/images/I/81MDAIdh78L._SY355_.jpg",
-        "genre": "Rock"
     }
 ]

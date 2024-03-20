@@ -7,11 +7,15 @@
     
     <div id="app">
         <div class="container py-5">
-    
+      
             <h1>Popular albums</h1>
             <ul>
-                <li >
-                    {{messaggio}}
+                <li v-for="album in albumList" :key="album.title" class="album-item">
+                    <img :src="album.poster" :alt="album.title" style="max-width: 100px; height: auto;">
+                    <p>Title: {{ album.title }}</p>
+                    <p>Author: {{ album.author }}</p>
+                    <p>Year: {{ album.year }}</p>
+                    <p>Genre: {{ album.genre }}</p>
                 </li>
             </ul>
     
@@ -27,5 +31,3 @@
     <script src="./js/main.js"></script>
 </body>
 </html>
-
-

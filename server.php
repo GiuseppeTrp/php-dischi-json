@@ -7,4 +7,4 @@ header("Content-Type: application/json");
 
 // Stampa il contenuto del file JSON come JSON
 echo json_encode($albums);
-?>
+
